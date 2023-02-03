@@ -1,9 +1,6 @@
 // reverse the given number  
 package adhoc;
-
 import java.util.Scanner;
-
-import javax.swing.SortOrder;
 
 public class Reverse {
     public static void main(String[] args) {

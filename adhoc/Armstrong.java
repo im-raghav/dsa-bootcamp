@@ -1,5 +1,4 @@
-// prints first 1000 armstrong number 
-
+// prints armstrong numbers < 1000
 package adhoc;
 
 public class Armstrong {

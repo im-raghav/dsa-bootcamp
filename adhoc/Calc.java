@@ -1,6 +1,5 @@
 // Calculator for basic operations
 package adhoc;
-
 import java.util.Scanner;
 
 public class Calc {
